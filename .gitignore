@@ -1,0 +1,10 @@
+node_modules
+build
+.eslintcache
+*.swp
+npm-debug.log
+bin/goods
+bin/malls
+bin/test
+bin/malls
+bin/release
